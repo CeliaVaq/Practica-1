@@ -1,6 +1,7 @@
 """
 
 Celia Vaquero
+Version corregida
 
 Tenemos NPROD procesos que producen numeros no negativos de forma
 creciente. Se consume el menor de los numeros producidos en el almacen
